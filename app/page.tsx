@@ -129,32 +129,24 @@ export default function Page() {
             </p>
           </Section>
 
+          
           <Section id="research" title="Research">
-            <h3 className="h3">Job Market Paper</h3>
-            <p className="p-lg">
-              <a className="link" href="#" onClick={(e) => e.preventDefault()}>
-                Disagreement Horizon and Timing Alpha in Share Repurchase
-                Programs
-              </a>
-            </p>
-            <p className="p-md">
-              I construct a large dataset of buyback completion and show that
-              completion dynamics reveal managers’ private information horizon.
-              A completion-contingent strategy outperforms buy-and-hold.
-            </p>
-
-            <h3 className="h3">Other Working Papers</h3>
-            <ul className="list">
-              <li>
-                Flow-Induced Mispricing and Share Repurchases: Evidence from a
-                Natural Experiment
-              </li>
-              <li>
-                Corporate Trading and Systematic Liquidity Risk: Evidence from
-                Share Repurchases
-              </li>
+            <h3 className="h3">Dissertation Chapters</h3>
+            <ul className="paper-list">
+              {PAPERS.map((p) => (
+                <li key={p.title} className="paper">
+                  <a className="paper-title" href={p.href} target="_blank" rel="noreferrer">
+                    {p.title}
+                  </a>
+                  <details className="paper-abs">
+                    <summary>Abstract</summary>
+                    <p className="p-md">{p.abstract}</p>
+                  </details>
+                </li>
+              ))}
             </ul>
           </Section>
+
 
           <Section id="teaching" title="Teaching">
             <p className="p-md">
