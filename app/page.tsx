@@ -195,15 +195,14 @@ export default function Page() {
           
             <ul className="list">
               {/* Summer School */}
-              <li>FM360 — Options, Futures & Other Financial Derivatives (Summer 2025)</li>
-              <li>FM202 — Analysis and Management of Financial Risk (Summer 2024)</li>
-              <li>FM202 — Analysis and Management of Financial Risk (Summer 2024)</li>
+              <li>FM360 — Options, Futures & Other Financial Derivatives (Evaluation: 4.x/5) Summer 2025</li>
+              <li>FM202 — Analysis and Management of Financial Risk (Evaluation: 4.8/5) Summer 2024 </li>
+              <li>FM202 — Analysis and Management of Financial Risk (Evaluation: 4.6 /5)Summer 2023</li>
           
               {/* Term-time teaching */}
-              <li>FM214 — Principles of Finance I (2024–2025)</li>
-              <li>FM214 — Principles of Finance I (2025)</li>
-              <li>FM215 — Principles of Finance II (2023–2024)</li>
-              <li>FM255 — Financial Markets & Portfolio Management (Summer 2023)</li>
+              <li>FM215 — Principles of Finance II (Evaluation: 4.9/5) 2024–202)</li>
+              <li>FM214 — Principles of Finance I (Evaluation: 4.8/5) 2023–2024</li>
+              <li>FM213 — Principles of Finance  (Evaluation: 4.7/5) 2022–2023</li>
             </ul>
           
             {/* If you want to add evaluations later, just append (Evaluation: 4.x/5) to each line. */}
