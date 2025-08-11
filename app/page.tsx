@@ -188,15 +188,27 @@ export default function Page() {
 
           <Section id="teaching" title="Teaching">
             <p className="p-md">
-              I’ve taught derivatives and finance courses at LSE Summer School
-              and served as a GTA across multiple years, with teaching
-              evaluations well above department averages.
+              I teach across LSE’s undergraduate and Summer School programmes, with a focus on
+              derivatives, risk management, and core corporate finance. Across cohorts I’ve
+              consistently received strong student feedback.
             </p>
+          
             <ul className="list">
-              <li>Options, Futures & Other Derivatives (FM360)</li>
-              <li>Corporate Finance / Econometrics (various years)</li>
+              {/* Summer School */}
+              <li>FM360 — Options, Futures & Other Financial Derivatives (Summer 2025)</li>
+              <li>FM202 — Analysis and Management of Financial Risk (Summer 2024)</li>
+              <li>FM202 — Analysis and Management of Financial Risk (Summer 2024)</li>
+          
+              {/* Term-time teaching */}
+              <li>FM214 — Principles of Finance I (2024–2025)</li>
+              <li>FM214 — Principles of Finance I (2025)</li>
+              <li>FM215 — Principles of Finance II (2023–2024)</li>
+              <li>FM255 — Financial Markets & Portfolio Management (Summer 2023)</li>
             </ul>
+          
+            {/* If you want to add evaluations later, just append (Evaluation: 4.x/5) to each line. */}
           </Section>
+
 
           <Section id="externalities" title="Externalities">
             <p className="p-md">Selected open resources and side work:</p>
