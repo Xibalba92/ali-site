@@ -21,9 +21,9 @@ const NAV = [
 ];
 const PAPERS = [
   {
-    title: `Disagreement Resolution Horizon and Open Market Repurchase Program Completion",
+    title: "Disagreement Resolution Horizon and Open Market Repurchase Program Completion",
     href: "/uploads/disagreement-horizon.pdf",
-    abstract: "This paper examines the puzzling heterogeneity in completion rates of open market
+    abstract: `This paper examines the puzzling heterogeneity in completion rates of open market
 repurchase programs, where some announcing firms execute zero repurchases while
 some complete their programs rapidly. I propose the disagreement resolution
 horizon hypothesis (DRHH), which argues that completion rates reflect managers’
