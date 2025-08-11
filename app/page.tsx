@@ -19,6 +19,23 @@ const NAV = [
   { id: 'externalities', label: 'Externalities' },
   { id: 'contact', label: 'Contact' },
 ];
+const PAPERS = [
+  {
+    title: "Disagreement Resolution Horizon and Open Market Repurchase Program Completion",
+    href: "/uploads/disagreement-horizon.pdf",
+    abstract: "Paste the abstract here (or use a short placeholder for now)."
+  },
+  {
+    title: "Open Market Repurchase Programs and Systematic Liquidity",
+    href: "/uploads/omr-systematic-liquidity.pdf",
+    abstract: "Paste the abstract here."
+  },
+  {
+    title: "Mispricing, Mutual Fund Flows, and Corporate Buybacks",
+    href: "/uploads/mispricing-flows-buybacks.pdf",
+    abstract: "Paste the abstract here."
+  }
+];
 
 export default function Page() {
   return (
