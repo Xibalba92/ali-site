@@ -21,9 +21,25 @@ const NAV = [
 ];
 const PAPERS = [
   {
-    title: "Disagreement Resolution Horizon and Open Market Repurchase Program Completion",
+    title: `Disagreement Resolution Horizon and Open Market Repurchase Program Completion",
     href: "/uploads/disagreement-horizon.pdf",
-    abstract: "Paste the abstract here (or use a short placeholder for now)."
+    abstract: "This paper examines the puzzling heterogeneity in completion rates of open market
+repurchase programs, where some announcing firms execute zero repurchases while
+some complete their programs rapidly. I propose the disagreement resolution
+horizon hypothesis (DRHH), which argues that completion rates reflect managers’
+expectations about when their disagreement with the market will naturally resolve.
+Using hand-collected data from SEC filings (2004-2022), I document three key
+findings. First, low-completion firms significantly outperform analyst expectations
+in years one and two post-announcement, while high-completion firms excel in years
+three and four. Second, this pattern is reflected in market reactions, with significant
+positive returns around earnings announcements occurring in corresponding periods.
+Third, while all announcing firms earn significant long-run abnormal returns, the
+timing of return realization systematically varies with completion rates. These
+results suggest that managers strategically balance duration-dependent costs of
+undervaluation against immediate costs of share repurchases, with their completion
+decisions signaling the expected timeline of information asymmetry resolution. The
+findings extend traditional signaling theories by highlighting how the temporal
+dimension of information asymmetry influences corporate payout policy.`
   },
   {
     title: "Open Market Repurchase Programs and Systematic Liquidity",
