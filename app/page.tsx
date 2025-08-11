@@ -44,12 +44,34 @@ dimension of information asymmetry influences corporate payout policy.`
   {
     title: "Open Market Repurchase Programs and Systematic Liquidity",
     href: "/uploads/omr-systematic-liquidity.pdf",
-    abstract: "Paste the abstract here."
+    abstract: `This study examines how open market repurchase (OMR) programs affect firms’
+exposure to systematic liquidity shocks and liquidity risk. Consistent with the
+view of repurchasing firms as buyers of last resort, I find: (1) firms experience a
+significant decline in liquidity commonality during OMR programs; (2) this decline
+is temporary, with liquidity commonality reverting to pre-program levels once repurchases
+end; (3) during these programs, firms stabilize against both variation in
+the demand for liquidity by institutional investors and variation in the supply of
+liquidity by market makers; and (4) the temporary reduction in liquidity commonality
+is accompanied by a temporary reduction in firms’ liquidity risk. Together,
+these results highlight a less emphasized aspect of OMR programs: the role of
+firms’ trading activity in shaping their liquidity dynamics and risk exposures.`
   },
   {
     title: "Mispricing, Mutual Fund Flows, and Corporate Buybacks",
     href: "/uploads/mispricing-flows-buybacks.pdf",
-    abstract: "Paste the abstract here."
+    abstract: `Using price pressure induced by mutual fund flows, I show that firms significantly
+adjust their repurchase activity in response to undervaluation. Repurchase behavior
+is captured both by the likelihood of announcing open market repurchase
+(OMR) programs and the quarterly amount repurchased. Leveraging the 2003
+mutual fund trading scandal as a natural experiment, I provide causal evidence
+that flow-induced valuation shocks drive repurchase decisions, with instrumental
+variable estimates revealing stronger effects than standard regressions imply.
+Further analysis of long-run stock performance reveals that the well-documented
+buyback anomaly is primarily driven by repurchase announcements following periods
+of negative fund flows. These findings point to limits to arbitrage as a key
+explanation for the slow correction of undervaluation in repurchasing firms and
+demonstrate how fund flows influence both corporate repurchase decisions and the
+market’s price response to those announcements.`
   }
 ];
 
